@@ -1,1 +1,8 @@
 language: java
+
+notifications:
+  email:
+    recipents:
+      - stefan2846@hotmail.com
+    on_success: never
+    on_failure: always
